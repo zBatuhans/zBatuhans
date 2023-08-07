@@ -1,4 +1,4 @@
-[![MasterHead][(https://images.app.goo.gl/rZwQuFKxJftu5NrS6)
+[![MasterHead](https://images.app.goo.gl/rZwQuFKxJftu5NrS6)
 <h1 align="center">Hi 👋, I'm Batuhan Korkmaz</h1>
 <h3 align="center">A passionate cyber security engineer from Türkiye.</h3>
 
