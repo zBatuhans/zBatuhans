@@ -1,4 +1,4 @@
-[![MasterHead](https://info.varonis.com/hubfs/Imported_Blog_Media/varonis-pentesting-hero@2x-1-1-1.png)
+[![MasterHead](https://media.licdn.com/dms/image/D4D16AQG6T92gjjtBKg/profile-displaybackgroundimage-shrink_350_1400/0/1674153278110?e=1687996800&v=beta&t=kBalXjsOxtLI4yiKhyCmS6hE8z-40PKWhLzPkqqIZKS)
 <h1 align="center">Hi 👋, I'm Batuhan Korkmaz</h1>
 <h3 align="center">A passionate cyber security engineer from Türkiye.</h3>
 
